@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class SKYWALKERSCENE_API USkywalkerConfigSubsystem : public UGameInstanceSubsystem
+class SKYWALKERCONFIG_API USkywalkerConfigSubsystem : public UGameInstanceSubsystem
 {
 	GENERATED_BODY()
 };
